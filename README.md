@@ -1,12 +1,12 @@
 The Brighton and Hove Python User Group Website
 ===============================================
 
-A very simple database-free website using the [Flask microframework](http://flask.pocoo.org).
+A very simple and easier database-free website using the [Flask microframework](http://flask.pocoo.org).
 
-You can see it running at [http://brightonpy.org](http://brightonpy.org)
+You can see it running at <br> [http://brightonpy.org](http://brightonpy.org)
 
-How to install and run locally
-------------------------------
+How to install and run in your Computer
+---------------------------------------
 
 (Assumes you have Pip, virtualenv and virtualenvwrapper installed).
 
